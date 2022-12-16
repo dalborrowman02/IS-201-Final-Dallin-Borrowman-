@@ -1,0 +1,54 @@
+/* Filmmaker List */
+.topFilmmakers {
+    font-family: 'Courier New', Courier, monospace;
+}
+/* Center Element */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 560px;
+}
+/* Anchor and Link to other Page */
+.footer{
+    display: block;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    width: 100%;
+    border-top: 1px solid white;
+    display: flex;
+    justify-content: center;
+}
+
+/* Other Stuffs */
+h1 {
+    color: maroon;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: gold;
+    font-weight: bold;
+}
+
+ol {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+ul {
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Background Color */
+body {
+    background-color: palegoldenrod;
+}
